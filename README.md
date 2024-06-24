@@ -8,7 +8,7 @@ to source code over time
 - You can track the history of the project
 - Our Project is a minimal clone of a very popular version control system “Git”
 - You can add your code to the staging area.
--Make commits to create different versions of project files.
+- Make commits to create different versions of project files.
 - Display all the commits OR versions in the console.
 - Even Revert to a previous version commit.
 - Track changes.
